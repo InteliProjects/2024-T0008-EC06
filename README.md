@@ -15,16 +15,16 @@ Solução robótica para inspeção de tubulações na indústria de produção 
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - CANNABOT
-  - Link do repositório: https://github.com/InteliProjects/2024-T0008-EC06-G01
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T08-EC06-G01
 
 - Grupo 2 - REPIPE
-  - Link do repositório: https://github.com/InteliProjects/2024-T0008-EC06-G02
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T08-EC06-G02
 
 - Grupo 3 - REBÓLINS
-  - Link do repositório: https://github.com/InteliProjects/2024-T0008-EC06-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T08-EC06-G03
 
 - Grupo 4 - TACOMARÉ
-  - Link do repositório: https://github.com/InteliProjects/2024-T0008-EC06-G04
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T08-EC06-G04
 
 - Grupo 5 - SUGARZ3RO
-  - Link do repositório: https://github.com/InteliProjects/2024-T0008-EC06-G05
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T08-EC06-G05
